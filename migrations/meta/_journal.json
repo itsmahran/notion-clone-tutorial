@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1700367417537,
+      "tag": "0000_massive_toad",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1700369054128,
+      "tag": "0001_fat_black_crow",
+      "breakpoints": true
+    }
+  ]
+}
